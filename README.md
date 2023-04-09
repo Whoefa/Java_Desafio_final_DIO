@@ -1,6 +1,3 @@
-# Explorando Padrões de Projetos na Prática com Java
+Usando padroes de projeto na construcao de API na DIO
 
-Repositório com as implementações dos padrões de projeto explorados no Lab "Explorando Padrões de Projetos na Prática com Java". Especificamente, este projeto explorou alguns padrões usando Java puro:
-- Singleton
-- Strategy
-- Facade
+Fiz uma API que diz a cidade, cep e o oceano da regiao
